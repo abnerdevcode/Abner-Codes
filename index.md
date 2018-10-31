@@ -1,8 +1,6 @@
 ## Abner Code Blog
 
-This website is where I test code using **Markdown** using a **Jekyll** (https://jekyllrb.com/) theme
-
-- [ ] Abner Code Blog (https://github.com/abnerdevcode/projectA/edit/master/index.md)
+This website is where I test code using **Markdown** using a **Jekyll** theme
 
 ### Markdown
 
