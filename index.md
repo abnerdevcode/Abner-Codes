@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Abner Code Blog
 
-You can use the [editor on GitHub](https://github.com/abnerdevcode/projectA/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This website is where I test code using **Markdown** using a **Jekyll** (https://jekyllrb.com/) theme
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [ ] Abner Code Blog (https://github.com/abnerdevcode/projectA/edit/master/index.md)
 
 ### Markdown
 
